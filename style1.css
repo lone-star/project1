@@ -1,14 +1,17 @@
 body{
-    background-color: white;
-      
+    background-color:white;    
 }
+
 .center{
     text-align: center;
 }
+
 .border{
     border: 5px solid rgb(27, 13, 13);
-    margin: 2px;  
- }
+    margin: 2px;
+    
+    
+}
 
 .navborder{
     border: 3px solid rgba(29, 163, 241, 0.349);
@@ -16,20 +19,23 @@ body{
     background-color: rgba(231, 2, 59, 0.055);
 }
 
-    
 h1{
     color:rgb(20, 20, 24);
     text-align: center;
 }
 #para1{
     font-family:'Courier New', Courier, monospace;
-    border: 3px solid darkgray; 
     margin: 20px;
-    color:rgb(10, 133, 173);
-    
+    color:rgba(2, 10, 37, 0.733);
 }
+
+.layout{
+    margin:50px;
+}
+    
+
 img{
-    border: 10px solid rgb(158, 52, 52);
+    border: 10px solid rgba(41, 19, 241, 0.418);
     padding:5px;
     background-color: rgb(250, 242, 242);
     

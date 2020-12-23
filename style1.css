@@ -1,0 +1,25 @@
+body{
+    background-color: lightgray;
+      
+}
+.center{
+    text-align: center;
+}
+h1{
+    color:rgb(20, 20, 24);
+    text-align: center;
+}
+#para1{
+    font-family:'Courier New', Courier, monospace;
+    border: 3px solid darkgray; 
+    margin: 20px;
+    color:rgb(10, 133, 173);
+    
+}
+img{
+    border: 10px solid rgb(158, 52, 52);
+    padding:5px;
+    background-color: rgb(250, 242, 242);
+    
+}
+

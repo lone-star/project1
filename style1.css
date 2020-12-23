@@ -1,10 +1,22 @@
 body{
-    background-color: lightgray;
+    background-color: white;
       
 }
 .center{
     text-align: center;
 }
+.border{
+    border: 5px solid rgb(27, 13, 13);
+    margin: 2px;  
+ }
+
+.navborder{
+    border: 3px solid rgba(29, 163, 241, 0.349);
+    margin: 15px;
+    background-color: rgba(231, 2, 59, 0.055);
+}
+
+    
 h1{
     color:rgb(20, 20, 24);
     text-align: center;
